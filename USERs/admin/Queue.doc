@@ -1,0 +1,5 @@
+
+Queue.txt
+Common implementations are circular buffers and linked lists.In these contexts, the queue performs the function of a buffer.A queue is an example of a linear data structure, or more abstractly a sequential collection.Often a peek or front operation is also entered, returning the value of the front element without dequeuing it.This makes the queue a First-In-First-Out (FIFO) data structure.
+Queue.docx
+By default, if no container class is specified for a particular queue class instantiation, the standard container deque is used.The underlying container may be one of the standard container class template or some other specifically designed container class.Elements are pushed into the "back" of the specific container and popped from its "front".

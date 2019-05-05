@@ -1,0 +1,28 @@
+
+Lesson: Preparation for Java Programmer Language Certification
+Oracle provides three certification examinations and two certificates for Java SE 7 programmers. The Java Tutorials can be a valuable resource to help you prepare for the certification exams. The following links will help you learn more about Java SE 7 training and certification offered by Oracle:
+•	Oracle Java Certification
+•	Oracle Java Training
+The following links provide more information on the certification topics and their mapping to tutorial content:
+•	Programmer Level I Exam - Successfully passing the Java SE 7 Programmer I exam results in the "Oracle Certified Associate, Java SE 7 Programmer" certification.
+•	Programmer Level II Exam - Successfully passing the Java SE 7 Programmer II exam results in the "Oracle Certified Professional, Java SE 7 Programmer" certification.
+•	Java SE 7 Upgrade Exam - Successfully passing the Upgrade to Java SE 7 Programmer exam results in the "Oracle Certified Professional, Java SE 7 Programmer" certification.
+See Oracle Certification Program for more information on classes, exams, and pre-requisites.
+For a high-level guide on how to approach learning the Java language, see Java Tutorials Learning Paths.
+Live, Instructor-led, Online training for SCJP 1.4
+http://www.whizlabs.com/scjp/training.html
+This web site is archived
+I have written a review of the SCWCD Exam Kit book
+Dylan Walsh has updated his Programmer Certification Essentials tutorial, you can see it at http://www.jchq.net/essentials
+Whizlabs have released a version of their exam simulator updated for the JDK1.4 exam objectives see J@Whiz
+Try Levteck.com to practice on some more Java mock exams
+I have written a review of the latest version of Just Java by Peter van der Linden
+I have written a short commentry on the new version of the programmers exam for JDK 1.4
+Available now, SCWCD Exam Study Kit: Java Web Component Developer Certification, a book/exam simulator combination. Order/Pre Order from amazon. These people know the subject
+The people at WhizLabs now have a whole swag of exam related products
+J@Whiz- for SCJP
+SCWCD@Whiz - for SCWCD
+XML@Whiz - for IBM XML Certification
+WebSphere@Whiz - IBM WebSphere Certification
+WebLogic@Whiz - BEA WebLogic Certification
+EConnect@Whiz - IBM's Enterprise Connectivity Certification
